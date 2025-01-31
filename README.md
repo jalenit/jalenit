@@ -1,11 +1,13 @@
 <h1>Hi, I'm Jalen, an <a href="https://linkedin.com/in/Josh">IT Professional</a>😊</h1>
 
+Passionate about networking, cloud computing, and IT support. I enjoy working with **Azure, Active Directory, and network security** while continuously expanding my technical skills.  
+
+📚 Currently pursuing my **CompTIA A+ certification** and an **Associate’s in IT.**  
+🚀 Always open to learning and new opportunities!  
+
+
 <h2>🧑🏽‍💻Information Technology Projects:</h2>
 
-- ﻿﻿<b>osTicket (Help Desk Ticketing System)</b>
-  - ﻿﻿[osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - ﻿﻿[osTicket: Post-Installation Configuration] (https://github.com/joshmadakorcc/post-install-config)
-  - ﻿﻿[osTicket: Ticket Lifecycle Examples] (https://github.com/joshmadakorcc/ticket-lifecycle)
 - ﻿﻿<b>Microsoft Azure</b>
   - ﻿﻿[Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - ﻿﻿[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
