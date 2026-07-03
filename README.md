@@ -2,7 +2,7 @@
 
 Passionate about networking, cloud computing, and IT support. I enjoy working with **Azure, Active Directory, and network security** while continuously expanding my technical skills.  
 
-📚 Currently pursuing my **CompTIA A+ certification** and an **Associate’s in IT.**  
+📚 Currently pursuing my **CompTIA A+ certification** and an **Bachelor’s in IT.**  
 🚀 Always open to learning and new opportunities!  
 
 
