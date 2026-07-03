@@ -1,24 +1,107 @@
-<h1>Hi, I'm Jalen, an <a href="https://linkedin.com/in/Josh">IT Professional</a>😊</h1>
+<h1>Hi, I'm Jalen, an <a href="https://linkedin.com/in/jalen-taylor-0a5264145">IT Professional</a> 😊</h1>
 
-Passionate about networking, cloud computing, and IT support. I enjoy working with **Azure, Active Directory, and network security** while continuously expanding my technical skills.  
+<p>
+  Passionate about IT support, cloud technologies, and hands-on troubleshooting.
+  I enjoy building technical labs that strengthen my skills in Microsoft Azure,
+  Active Directory, networking, security, and IT service management.
+</p>
 
-📚 Currently pursuing my **CompTIA A+ certification** and an **Bachelor’s in IT.**  
-🚀 Always open to learning and new opportunities!  
+<h2>🚀 About Me</h2>
 
+<ul>
+  <li>💻 IT Support professional with experience supporting Windows environments, Microsoft 365, VPNs, and user accounts</li>
+  <li>☁️ Building hands-on labs in Microsoft Azure</li>
+  <li>🖥️ Interested in Systems Administration, Cloud Computing, and Cybersecurity</li>
+  <li>📚 Currently pursuing CompTIA A+ and a Bachelor's in Information Technology</li>
+  <li>🎯 Career Goal: Systems Administrator, Cloud Support Engineer, or Infrastructure Engineer</li>
+</ul>
 
-<h2>🧑🏽‍💻Information Technology Projects:</h2>
+<h2>🛠️ Technical Skills</h2>
 
-- ﻿﻿<b>Microsoft Azure</b>
-  
-  - ﻿﻿[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jalenit/azure-network-protocols.git)
+<h3>Cloud</h3>
+<ul>
+  <li>Microsoft Azure</li>
+  <li>Azure Virtual Machines</li>
+  <li>Azure Networking</li>
+</ul>
 
-<h2 >🤳🏽Connect with me:</h2>
+<h3>Systems & Identity</h3>
+<ul>
+  <li>Active Directory</li>
+  <li>Microsoft Entra ID</li>
+  <li>Microsoft Intune</li>
+  <li>Group Policy</li>
+  <li>Windows 10/11</li>
+  <li>Windows Server</li>
+</ul>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-/>][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
-/>][Instagram]
+<h3>Networking & Security</h3>
+<ul>
+  <li>TCP/IP</li>
+  <li>DNS</li>
+  <li>DHCP</li>
+  <li>VPN</li>
+  <li>Network Security Groups</li>
+  <li>Wireshark</li>
+  <li>BitLocker</li>
+  <li>Multi-Factor Authentication</li>
+</ul>
 
-[linkedin]: https://linkedin.com/in/jalen-taylor-0a5264145
-[instagram]: https://www.instagram.com/aestheticjaee
+<h3>IT Support</h3>
+<ul>
+  <li>ServiceNow</li>
+  <li>Microsoft 365</li>
+  <li>Remote Desktop</li>
+  <li>Troubleshooting</li>
+  <li>Hardware & Software Support</li>
+</ul>
 
+<h2>🧑🏽‍💻 Information Technology Projects</h2>
+
+<ul>
+  <li>
+    <b>osTicket Help Desk Ticketing System</b>
+    <ul>
+      <li>
+        <a href="https://github.com/jalenit/osticket-prereqs">
+          osTicket: Prerequisites and Installation
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2>📈 Currently Learning</h2>
+
+<ul>
+  <li>CompTIA A+</li>
+  <li>Windows Server Administration</li>
+  <li>PowerShell</li>
+  <li>Active Directory</li>
+  <li>Microsoft Azure Administration</li>
+  <li>Networking Fundamentals</li>
+</ul>
+
+<h2>📜 Certifications</h2>
+
+<ul>
+  <li>Associate of Science in Information Technology</li>
+  <li>CompTIA A+ — In Progress</li>
+</ul>
+
+<h2>🤝 Connect With Me</h2>
+
+<ul>
+  <li>
+    <a href="https://linkedin.com/in/jalen-taylor-0a5264145">LinkedIn</a>
+  </li>
+  <li>
+    <a href="https://github.com/jalenit">GitHub</a>
+  </li>
+</ul>
+
+<hr>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
